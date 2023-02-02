@@ -1,0 +1,13 @@
+total 16
+-rw-------  1 tirumalarajupavankumarraju  staff    0 Jan 26 09:52 error.txt
+drwx------  6 tirumalarajupavankumarraju  staff  192 Jan 25 21:18 f
+-rw-r--r--  1 tirumalarajupavankumarraju  staff    0 Jan 26 10:03 f.txt
+-rw-------  1 tirumalarajupavankumarraju  staff    0 Jan 25 21:15 k.txt
+-rw-------  1 tirumalarajupavankumarraju  staff    0 Jan 25 21:15 kk.txt
+-rwx-w---x  1 tirumalarajupavankumarraju  staff   24 Jan 25 19:00 kumar1.txt
+-r--------  1 tirumalarajupavankumarraju  staff    0 Jan 25 19:00 kumar2.pdf
+-r--------  1 tirumalarajupavankumarraju  staff    0 Jan 25 19:00 kumar3.pdf
+-rw-------  1 tirumalarajupavankumarraju  staff    0 Jan 25 21:15 pp.txt
+-rw-------  1 tirumalarajupavankumarraju  staff   11 Jan 26 10:01 r.txt
+-rw-------  1 tirumalarajupavankumarraju  staff    0 Jan 25 21:15 rr.txt.p.txt
+-rw-------  1 tirumalarajupavankumarraju  staff    0 Jan 26 10:00 win.txt

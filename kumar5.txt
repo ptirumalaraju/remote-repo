@@ -1,0 +1,35 @@
+This 
+Doc 
+Is the second file for learning the diff command.
+#writing my first YAMl file for config the files.
+
+---
+Name: !!str Pavan Kumar Raju
+Age: !!int 25
+Qualification: Graduate #Major in Computer Science
+Location: Baton Rouge, Lousianan
+Country: United States
+...
+
+---
+#trying the explicit YAML language
+
+Is Pavan a good boy: !!bool true
+
+Pavan bank accounts: 
+ - United States:
+  - chase(chicago)
+  - Zolve Credit Card
+  - Sable CC
+  - Paypal
+
+Pavan India Bank accounts: 
+- India:
+ - Andhra Bank
+ - Axis Bank 
+ - Paytm Bank 
+ - Payzz app
+ - HDFC bank 
+
+ ...
+

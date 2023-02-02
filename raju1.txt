@@ -1,0 +1,16 @@
+.DS_Store
+baton
+kumar1.txt
+kumar2.pdf
+kumar3.pdf
+kumar4
+kumar5.txt
+pav.tar
+raju1
+raju1.txt
+raju2
+raju2.pdf
+raju3
+raju3.xml
+rouge
+txt

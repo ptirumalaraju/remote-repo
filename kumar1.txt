@@ -1,0 +1,2 @@
+ping: ping: cannot resolve host: Unknown host
+cannot resolve host: Unknown host
