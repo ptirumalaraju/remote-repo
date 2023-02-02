@@ -1,2 +1,4 @@
 ping: ping: cannot resolve host: Unknown host
 cannot resolve host: Unknown host
+
+This file is using for practising the rebase command from git as i have seen the question form the git and git hub in quizzes.
